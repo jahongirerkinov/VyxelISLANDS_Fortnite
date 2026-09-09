@@ -1,0 +1,55 @@
+{
+    "folders": [
+        {
+            "name": "PropHuntSchool_2nd",
+            "path": "C:/Users/Jahongir/Documents/Fortnite Projects/PropHuntSchool_2nd/Plugins/PropHuntSchool_2nd/Content"
+        },
+        {
+            "name": "PropHuntSchool_2nd/Assets",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/PropHuntSchool_2nd/PropHuntSchool_2nd-Assets"
+        },
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/PropHuntSchool_2nd/vproject"
+        },
+        {
+            "name": "Verse",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/PropHuntSchool_2nd/Verse"
+        },
+        {
+            "name": "UnrealEngine",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/PropHuntSchool_2nd/UnrealEngine"
+        },
+        {
+            "name": "Fortnite",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/PropHuntSchool_2nd/Fortnite"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true
+        },
+        "files.autoSave": "onWindowChange",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}

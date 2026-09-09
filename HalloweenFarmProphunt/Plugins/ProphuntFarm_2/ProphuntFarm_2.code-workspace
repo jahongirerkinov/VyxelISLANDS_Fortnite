@@ -1,0 +1,55 @@
+{
+    "folders": [
+        {
+            "name": "ProphuntFarm_2",
+            "path": "C:/Users/Jahongir/Documents/Fortnite Projects/ProphuntFarm_2/Plugins/ProphuntFarm_2/Content"
+        },
+        {
+            "name": "ProphuntFarm_2/Assets",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/ProphuntFarm_2/ProphuntFarm_2-Assets"
+        },
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/ProphuntFarm_2/vproject"
+        },
+        {
+            "name": "Verse",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/ProphuntFarm_2/Verse"
+        },
+        {
+            "name": "UnrealEngine",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/ProphuntFarm_2/UnrealEngine"
+        },
+        {
+            "name": "Fortnite",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/ProphuntFarm_2/Fortnite"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true
+        },
+        "files.autoSave": "onWindowChange",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}

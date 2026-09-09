@@ -1,0 +1,111 @@
+{
+	"fileVersion": 15,
+	"title": "DemolitionContractor",
+	"description": "",
+	"keyArt": "Resources/Icon128.png",
+	"docsUrl": "",
+	"apiAccess": "Private",
+	"bindings":
+	{
+		"projectId": "f254cfc7-2491-4d23-9277-d07d52dbaf5d",
+		"modules":
+		{
+			"DemolitionContractor": "a8463460-8d07-420f-9255-98eb997118a8"
+		},
+		"bSuppressAutomaticVersePathAssignment": false,
+		"projectVersePath": "/islands@fortnite.com/DemolitionContractor"
+	},
+	"compatibilityVersion": "42.10",
+	"requiredRedirectorStartingVersion": "42.00.57316517",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "DemolitionContractor",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 16,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Public",
+			"minPlayers": 1,
+			"overtimePlayerTarget": 1,
+			"queueMainDuration": 5,
+			"queueOvertimeDuration": 5,
+			"useSkillBasedMatchmaking": false,
+			"ratingType": "",
+			"splitscreenDisabled": false,
+			"version": 1
+		},
+		"experimental":
+		{
+			"sceneGraph":
+			{
+				"bIsSceneGraphSystemAllowed": true,
+				"bEnableOneFilePerEntity": false
+			},
+			"version": 1
+		},
+		"ugcLocalization":
+		{
+			"nativeCulture": "en",
+			"culturesToGenerate": [
+				"ar",
+				"de",
+				"en",
+				"es",
+				"es-419",
+				"fr",
+				"id",
+				"it",
+				"ja",
+				"ko",
+				"pl",
+				"pt-BR",
+				"ru",
+				"th",
+				"tr",
+				"vi",
+				"zh-Hans",
+				"zh-Hant"
+			],
+			"poFormat": "Unreal"
+		},
+		"autoLocalization":
+		{
+			"bAutoBuildLocalization": true,
+			"cultures": [
+				"ar",
+				"de",
+				"en",
+				"es",
+				"es-419",
+				"fr",
+				"id",
+				"it",
+				"ja",
+				"ko",
+				"pl",
+				"pt-BR",
+				"ru",
+				"th",
+				"tr",
+				"vi",
+				"zh-Hans",
+				"zh-Hant"
+			],
+			"mode": "Untranslated"
+		}
+	}
+}

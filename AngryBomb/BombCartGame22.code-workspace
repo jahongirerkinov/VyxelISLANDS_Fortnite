@@ -1,0 +1,49 @@
+{
+    "folders": [
+        {
+            "name": "/islands@fortnite.com/BombCartGame22 (BombCartGame22)",
+            "path": "C:/Users/Jahongir/Documents/Fortnite Projects/BombCartGame22/Content"
+        },
+        {
+            "name": "/islands@fortnite.com/BombCartGame22 (BombCartGame22/Assets)",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/BombCartGame22/Digests/BombCartGame22-Assets"
+        },
+        {
+            "name": "vproject (read-only)",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/BombCartGame22/vproject"
+        },
+        {
+            "name": "Built-in Digests",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/BombCartGame22/Digests/BuiltIn"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true,
+            "Collections": true,
+            "Developers": true
+        },
+        "files.autoSave": "onWindowChange",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}

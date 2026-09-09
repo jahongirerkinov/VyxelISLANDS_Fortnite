@@ -1,0 +1,43 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "PropHuntSchool_2nd",
+	"description": "",
+	"keyArt": "Resources/Icon256.png",
+	"docsUrl": "",
+	"kind": "Island",
+	"compatibilityVersion": "30.20",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "PropHuntSchool_2nd",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 2,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "8b15f648-4daa-9f5e-9e45-7eb7f9acf0f7",
+		"projectVersePath": "",
+		"modules":
+		{
+			"PropHuntSchool_2nd": "5500c743-4486-daeb-495b-0381e28691f4"
+		}
+	}
+}

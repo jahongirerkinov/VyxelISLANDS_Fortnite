@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BombCartGame22",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"VersePath": "/islands@fortnite.com/BombCartGame22",
+	"VerseVersion": 1,
+	"EnableVerseAssetReflection": true,
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true,
+	"UGCLocalizationTargetName": "BombCartGame22",
+	"ValkyrieSettings":
+	{
+		"libraryFolderMode": "Absent",
+		"libraryCustomPath": ""
+	},
+	"VerseAPI": 1,
+	"builtInAutoActivate": false,
+	"EnableSceneGraph": true
+}

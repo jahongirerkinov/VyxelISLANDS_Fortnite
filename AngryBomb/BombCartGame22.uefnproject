@@ -1,0 +1,119 @@
+{
+	"fileVersion": 15,
+	"title": "BombCartGame22",
+	"description": "",
+	"keyArt": "Resources/Icon128.png",
+	"docsUrl": "",
+	"apiAccess": "Private",
+	"bindings":
+	{
+		"projectId": "35fc09be-4976-28e6-b84b-09918cb838fe",
+		"modules":
+		{
+			"BombCartGame22": "d51c9f73-45b9-9c18-29a9-1d99bf041d82"
+		},
+		"bSuppressAutomaticVersePathAssignment": false,
+		"projectVersePath": "/islands@fortnite.com/BombCartGame22"
+	},
+	"compatibilityVersion": "42.00",
+	"requiredRedirectorStartingVersion": "41.20.55550516",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "BombCartGame22",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 10,
+			"maxTeamCount": 2,
+			"maxTeamSize": 10,
+			"maxSocialPartySize": 10,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"minPlayers": 1,
+			"overtimePlayerTarget": 1,
+			"queueMainDuration": 5,
+			"queueOvertimeDuration": 5,
+			"useSkillBasedMatchmaking": false,
+			"ratingType": "",
+			"splitscreenDisabled": false,
+			"version": 1
+		},
+		"experimental":
+		{
+			"sceneGraph":
+			{
+				"bIsSceneGraphSystemAllowed": true,
+				"bEnableOneFilePerEntity": false
+			},
+			"version": 1,
+			"pythonExperimental":
+			{
+				"bEnablePythonForProject": true
+			},
+			"toolsets":
+			{
+				"bEnableToolsetsForProject": true
+			}
+		},
+		"ugcLocalization":
+		{
+			"nativeCulture": "en",
+			"culturesToGenerate": [
+				"ar",
+				"de",
+				"en",
+				"es",
+				"es-419",
+				"fr",
+				"id",
+				"it",
+				"ja",
+				"ko",
+				"pl",
+				"pt-BR",
+				"ru",
+				"th",
+				"tr",
+				"vi",
+				"zh-Hans",
+				"zh-Hant"
+			],
+			"poFormat": "Unreal"
+		},
+		"autoLocalization":
+		{
+			"bAutoBuildLocalization": true,
+			"cultures": [
+				"ar",
+				"de",
+				"en",
+				"es",
+				"es-419",
+				"fr",
+				"id",
+				"it",
+				"ja",
+				"ko",
+				"pl",
+				"pt-BR",
+				"ru",
+				"th",
+				"tr",
+				"vi",
+				"zh-Hans",
+				"zh-Hant"
+			],
+			"mode": "Untranslated"
+		}
+	}
+}

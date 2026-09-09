@@ -1,0 +1,47 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "ProphuntFarm_2",
+	"description": "A Verse starter project template for a prop hunt game mode. Prop players attempt to hide using the Prop-O-Matic device. Props must move occasionally or a heart beat will give away their position. Hunters attempt to find an eliminate hidden props. Props that are eliminated respawn as hunters. Props score points every second they are hidden. Hunters score points for eliminating props - the points awarded increasing as there are fewer props.",
+	"keyArt": "Resources/Icon256.png",
+	"docsUrl": "",
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "26.30",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "ProphuntFarm_2",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 99,
+			"maxTeamCount": 2,
+			"maxTeamSize": 99,
+			"maxSocialPartySize": 99,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"version": 1
+		},
+		"experimental":
+		{
+		}
+	},
+	"bindings":
+	{
+		"projectId": "3c62e748-4961-9475-7840-50836ba5d2a9",
+		"projectVersePath": "",
+		"modules":
+		{
+			"ProphuntFarm_2": "6283c8b9-47b4-2d04-ebd7-13806abf2b35"
+		}
+	},
+	"featureSet": ""
+}

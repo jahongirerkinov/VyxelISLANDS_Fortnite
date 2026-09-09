@@ -1,0 +1,45 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "ChristmasProphunt_WithMechanics",
+	"description": "",
+	"keyArt": "Resources/Icon256.png",
+	"docsUrl": "",
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "28.01",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "ChristmasProphunt_WithMechanics",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 2,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "4b4e1c19-436c-fd99-e448-3799493ac174",
+		"projectVersePath": "/islands@fortnite.com/ChristmasProphunt_WithMechanics",
+		"modules":
+		{
+			"ChristmasProphunt_WithMechanics": "81e129b3-437a-d798-d8e7-a7a7d3fbf242"
+		}
+	},
+	"featureSet": "",
+	"requiredRedirectorStartingVersion": ""
+}

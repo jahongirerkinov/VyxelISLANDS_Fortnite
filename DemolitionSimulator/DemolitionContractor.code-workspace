@@ -1,0 +1,49 @@
+{
+    "folders": [
+        {
+            "name": "/islands@fortnite.com/DemolitionContractor (DemolitionContractor)",
+            "path": "C:/Users/Jahongir/Documents/Fortnite Projects/DemolitionContractor/Content"
+        },
+        {
+            "name": "/islands@fortnite.com/DemolitionContractor (DemolitionContractor/Assets)",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/DemolitionContractor/Digests/DemolitionContractor-Assets"
+        },
+        {
+            "name": "vproject (read-only)",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/DemolitionContractor/vproject"
+        },
+        {
+            "name": "Built-in Digests",
+            "path": "C:/Users/Jahongir/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/DemolitionContractor/Digests/BuiltIn"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true,
+            "Collections": true,
+            "Developers": true
+        },
+        "files.autoSave": "onWindowChange",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}
